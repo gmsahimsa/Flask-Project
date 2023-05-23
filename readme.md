@@ -6,5 +6,5 @@ This Repo consist of The Week - 10 Flask Project With Modifications
 By GMS Ahimsa
 ## Table of Contents
 
-- [Greet, Hello World](#app.py)
+- [Greet, Hello World](https://github.com/gmsahimsa/Flask-Project/blob/master/app.py)
 
